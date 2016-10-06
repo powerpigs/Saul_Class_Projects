@@ -32,38 +32,8 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
-  <component name="SbtLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$/../../../../Github_Projects/Saul" value="4330924980000" />
-        <entry key="$PROJECT_DIR$/../../../../Github_Projects2/saul" value="4331152617000" />
-        <entry key="$USER_HOME$/DanielVersion/saul" value="5807865272000" />
-        <entry key="$USER_HOME$/JoeyVersion/saul" value="5811272140000" />
-        <entry key="$PROJECT_DIR$/../saul" value="5866767204000" />
-        <entry key="$PROJECT_DIR$/../../saul" value="4333554195000" />
-        <entry key="$USER_HOME$/SameerVersion/saul" value="4333549959000" />
-        <entry key="$USER_HOME$/saul" value="4332741123000" />
-        <entry key="$PROJECT_DIR$/../../../../Github_temp/saul" value="5813668892000" />
-        <entry key="$PROJECT_DIR$/../../../../Github_temp1/myMasterSaul/saul" value="5815046792000" />
-        <entry key="$PROJECT_DIR$/../../../../Github_temp1/upStreamMasterSaul/saul" value="5816380548000" />
-        <entry key="$PROJECT_DIR$/../../../../saul" value="1430328645000" />
-        <entry key="$USER_HOME$/saul" value="1430248458000" />
-      </map>
-    </option>
-  </component>
   <component name="SbtSettings">
     <option name="sbtLauncherJarPath" value="$USER_HOME$/deepdive/sbt/sbt-launch.jar" />
-  </component>
-  <component name="ScalaProjectSettings">
-    <option name="intInjectionMapping">
-      <map>
-        <entry key="xml" value="XML" />
-      </map>
-    </option>
-  </component>
-  <component name="ScalaSbtSettings">
-    <option name="customLauncherPath" value="$USER_HOME$/deepdive/sbt/sbt-launch.jar" />
-    <option name="customVMPath" value="$USER_HOME$/deepdive/sbt" />
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>

@@ -1,0 +1,15 @@
+Emma Pejko
+
+Title: Classifying types of iris flowers
+
+Description: Different types of iris’ are given to the computer, each with four features measured: sepal length, sepal width, petal length and petal width. For the first few flowers, the computer is told what types of iris they are, and is given their measurements. Based off of those training examples, the computer must categorize the rest of the flowers based off of the four measurements given for each flower. The flowers are put into one of three classes: Iris Setosa, Iris Versicolour, and Iris Virginica.
+
+Importance/Interest: This is important because the environment is very fragile and needs lots of human attention. Humans have been destroying the environment for a long time, but computers could be used to help the environment. This is something very small, just classifying specimens, but it could be grown to be used in labs and help scientists and others work towards saving the environment.
+
+Input space: The four measurements of the flowers: sepal length, sepal width, petal length and petal width
+
+Output space: The class of each flower: Iris Setosa, Iris Versicolour, and Iris Virginica
+
+Data: ​https://archive.ics.uci.edu/ml/datasets/Iris
+
+Learning Paradigm: I believe this is supervised learning because it is classification.

@@ -1,0 +1,62 @@
+
+Effects of Corporate Bond Rating Changes on Stock Prices 
+
+
+ 
+
+
+Problem 
+
+
+A corporate bond is a security issued by a company to raise capital.  In the simplest form, investors buy a corporate bond and receive a fixed payment from the company every year or twice a year, and then get a final payment at the maturity date, or date that the bond expires.  The company uses the money that investors used for their bonds to finance projects that will help grow the company.   
+
+
+ 
+
+
+There is always a risk that companies will default on, or not be able to pay back, their debt.  Ratings agencies like Standard & Poor’s, Moody’s, and Fitch rate bonds to determine how likely a company is to default on their debt.  This project will investigate the extent to which, if at all, changes in a corporation’s bond ratings affect the company’s stock price. 
+
+
+ 
+
+
+Why this Problem is Interesting 
+
+
+This problem relates to one of the most fundamental and debated questions in investing: The Efficient Market Hypothesis (EMH).  The EMH states that all stock prices already reflect all available information.  According to the EMH, a change in a bond rating should not affect a company’s stock price because the information used to change the bond rating should have already been included in the company’s stock price.  This problem will investigate the extent to which investors in the stock market have already incorporated information causing a change in bond rating before ratings agencies issue the change in bond rating.  Furthermore, studies of the relationship between changes in bond ratings and stock prices have differed, with some concluding they are correlated and others concluding they are not. 
+
+
+ 
+
+
+Input Space 
+
+
+Companies that have experienced ratings changes in their bonds (ideally, we will include 100 companies).  We should also include companies that have not experienced ratings changes as a control.  Other variables that may have an effect include investment grade vs. junk status of bonds, industry, macroeconomic factors like GDP growth, unemployment, and inflation, interest rates, and debt to equity ratios of the companies. 
+
+
+ 
+
+
+Output Space 
+
+
+Changes in the companies’ stock prices immediately following the announcement of the ratings changes. 
+
+
+ 
+
+
+Data Available 
+
+
+Bloomberg, Morningstar, Moody’s, and Standard & Poor’s should be able to give me data for bond ratings.  Yahoo! Finance and Bloomberg offer data on company stock prices. 
+
+
+ 
+
+
+Learning Paradigm 
+
+
+I plan to use supervised learning. 

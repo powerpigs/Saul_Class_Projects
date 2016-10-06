@@ -1,0 +1,24 @@
+Neil Barot
+Machine Learning Project Plan
+
+
+1) Give it a title
+Venture Capital Contract Classifier
+
+2) Describe the problem for the audience who is not familiar with your field and terminology and (3) Why this problem is important or interesting?
+When venture capital firms decide to fund a project or company, they often have one of two relationships with the group they are funding. These are thought to be either an "arms-length" relationship or a "collaborative" relationship. However, often times, when groups negotiate with venture capital firms,
+they are inundated by booklets of legal language that do not make clear exactly what the relationship will be like. In partnership with Dr. Kuan from the Freeman Business School, I want to build a PDF contract analyzer that can analyze the text and language in a contract and try and recognize how much of
+a contract seems "collaborative" vs how much seems "arms-length." This will be important in helping firms understand and recognize what type of deals they are getting into with venture capital firms, as venture capital backed firms are strongly on the rise.
+
+4) What is your input space?
+Of the two types of contracts, there are various subsections within them. My inputs would be contracts which it would then split into paragraphs/subsections and analyze which type of contract it is.
+
+5) What is your output space?
+The output space would show each paragraph split up with ranking of how "collaborative" it is vs how "arms-length" it is. It would then show the totals for the entire document.
+
+6) Do you know any data available for your learning task?
+Dr. Kuan has provided me two full contracts of each type. My data will then be all the paragraphs in the two contracts.
+
+7) What learning paradigm you think you will use (supervised, unsupervised, ..)?
+Since I would be the data sets with answers and giving it as input while looking for a desired output, I would be using supervised learning.
+

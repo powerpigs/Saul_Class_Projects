@@ -1,0 +1,21 @@
+Author: Nicholas Teal
+Date: 9/15/2016
+
+ 
+Project Name: Auditory Attention 
+ 
+Problem: I’m interested in studying the relationship between auditory cues and the strength of 
+the variables on the overall attention given to the auditory system.   
+ 
+Importance: Understanding how different, specific variables elicit response and attention 
+through the auditory system may help neuroscientists with base information to help in future 
+experiments. 
+ 
+Input space: We will be measuring features of auditory stimulus, including: pitch, duration, 
+location, and oscillation. 
+ 
+Output space: We will be measuring response time to stimulus in order to determine attention given to the features of the stimulus
+
+Known info: None 
+ 
+Paradigm: I think I will used unsupervised learning as my paradigm.   
