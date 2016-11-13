@@ -1,1007 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e8ba0a4-f19e-46cd-ab3f-b7c70677788a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/810.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/811.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/812.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/813.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/815.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/817.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/818.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/819.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/821.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/822.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/823.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/824.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/825.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/826.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/827.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/828.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/829.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/830.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/831.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/832.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/833.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/834.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/835.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/836.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/837.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/838.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/841.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/842.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/843.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/844.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/845.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/846.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/847.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/848.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/849.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/850.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/851.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/852.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/853.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/854.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/855.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/856.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/857.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/858.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/859.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/861.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/862.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/863.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/864.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/865.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/868.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/869.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/871.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/872.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/873.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/875.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/879.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/885.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/892.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/893.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/894.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/895.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/896.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/897.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/899.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/901.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/904.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/906.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/907.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/909.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/910.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/912.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/914.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/915.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/916.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/917.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/918.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/919.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/921.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/922.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/923.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/924.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/925.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/926.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/927.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/928.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/929.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/930.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/931.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/932.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/933.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/934.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/935.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/936.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/937.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/938.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/939.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/941.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/942.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/943.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/944.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/947.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/948.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/949.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/950.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/951.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/952.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/953.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/955.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/957.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/958.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/959.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/960.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/961.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/962.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/963.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/965.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/966.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/967.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/969.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/970.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/971.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/991.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/992.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/993.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/994.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/995.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/996.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/997.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/998.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/images/999.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/810.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/811.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/812.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/813.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/815.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/817.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/818.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/819.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/821.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/822.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/823.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/824.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/825.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/826.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/827.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/828.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/829.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/830.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/831.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/832.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/833.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/834.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/835.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/836.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/837.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/838.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/841.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/842.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/843.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/844.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/845.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/846.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/847.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/848.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/849.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/850.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/851.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/852.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/853.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/854.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/855.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/856.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/857.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/858.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/859.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/861.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/862.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/863.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/864.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/865.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/868.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/869.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/871.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/872.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/873.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/875.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/879.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/885.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/892.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/893.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/894.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/895.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/896.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/897.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/899.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/901.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/904.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/906.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/907.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/909.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/910.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/912.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/914.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/915.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/916.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/917.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/918.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/919.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/921.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/922.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/923.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/924.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/925.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/926.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/927.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/928.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/929.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/930.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/931.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/932.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/933.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/934.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/935.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/936.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/937.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/938.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/939.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/941.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/942.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/943.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/944.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/947.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/948.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/949.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/950.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/951.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/952.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/953.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/955.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/957.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/958.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/959.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/960.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/961.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/962.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/963.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/965.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/966.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/967.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/969.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/970.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/971.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/991.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/992.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/993.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/994.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/995.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/996.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/997.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/998.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/test/segmented_images/999.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/112.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/116.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/45.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/48.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/53.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/54.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/546.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/56.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/57.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/58.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/59.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/60.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/61.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/62.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/63.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/64.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/646.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/651.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/652.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/655.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/656.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/66.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/661.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/662.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/663.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/664.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/668.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/669.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/671.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/672.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/674.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/676.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/678.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/679.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/682.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/683.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/684.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/685.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/686.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/687.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/689.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/690.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/692.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/693.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/694.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/696.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/698.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/700.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/702.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/705.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/708.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/712.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/714.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/715.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/716.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/717.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/718.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/719.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/723.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/725.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/726.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/728.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/731.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/732.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/736.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/737.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/738.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/739.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/742.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/754.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/767.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/768.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/778.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/779.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/780.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/781.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/783.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/784.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/786.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/788.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/789.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/790.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/791.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/792.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/793.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/794.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/795.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/796.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/797.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/798.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/799.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/800.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/801.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/802.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/803.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/804.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/805.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/806.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/808.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/images/809.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/112.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/116.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/45.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/48.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/53.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/54.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/546.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/56.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/57.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/58.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/59.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/60.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/61.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/62.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/63.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/64.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/646.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/651.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/652.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/655.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/656.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/66.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/661.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/662.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/663.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/664.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/668.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/669.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/671.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/672.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/674.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/676.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/678.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/679.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/682.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/683.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/684.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/685.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/686.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/687.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/689.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/690.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/692.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/693.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/694.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/696.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/698.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/700.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/702.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/705.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/708.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/712.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/714.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/715.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/716.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/717.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/718.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/719.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/723.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/725.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/726.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/728.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/731.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/732.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/736.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/737.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/738.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/739.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/742.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/754.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/767.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/768.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/778.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/779.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/780.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/781.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/783.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/784.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/786.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/788.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/789.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/790.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/791.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/792.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/793.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/794.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/795.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/796.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/797.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/798.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/799.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/800.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/801.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/802.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/803.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/804.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/805.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/806.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/808.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NathanData/train/segmented_images/809.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2012-master/Scripts/SpRLEval.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/SpRL.final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/SpRL.final_lib/log4j-1.2.15.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/nicholasTeal/stm_and_noload.ods" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Chloe/StartofProject_chloechen.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/LiangTan/MachineLearningProject_LiangTan.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Nathan_Nguyen/NathanProjectResearch.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Nathan_Nguyen/NathanProjectSpecification.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Neil Barot/Data/NVCA-Voting-Agt-with-Bad-Actor-Provisions-Feb-2014.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Neil Barot/Data/SPA-with-Bad-Actor-Provisions-Feb-2014.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Neil Barot/Data/series-seed---certificate-of-incorporation-v-3-2.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Neil Barot/Data/series-seed---stock-investment-agreement-v-3-2.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Neil Barot/Research/Machine Learning Classification Algorithms to Analyze Charts in PDFs.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Neil Barot/Research/Machine Learning in Automated Text Categorization.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/PriserAndWjeter/Machine Learning PRoject Proposal.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/PriserAndWjeter/Machine Learning Research.odt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Project.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/WilsonJeter/ProjectProposalWIlsonJeter.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Winona/Machine Learning Project Start.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Winona/paper_summary.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CourseProjectData/TrainData_part.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/EmmaPejkoData" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2012-master/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2012-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2012-master/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2012-master/Scripts/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2012-master/SpRL-2012-Data/SpRL-2012-Gold.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2012-master/SpRL-2012-Data/SpRL-2012-Train.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/45 N 22 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/45 N 23 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/46 N 21 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/46 N 22 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/46 N 23 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/46 N 24 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/46 N 25 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/46 N 26 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/46 N 27 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/46 N 28 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/47 N 22 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/47 N 23 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/47 N 24 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/47 N 25 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/47 N 26 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/47 N 27 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/47 N 28 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/48 N 10 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/48 N 11 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/48 N 12 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/48 N 27 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/gold/48 N 8 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/45 N 22 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/45 N 23 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/46 N 21 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/46 N 22 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/46 N 23 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/46 N 24 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/46 N 25 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/46 N 26 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/46 N 27 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/46 N 28 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/47 N 22 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/47 N 23 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/47 N 24 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/47 N 25 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/47 N 26 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/47 N 27 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/47 N 28 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/48 N 10 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/48 N 11 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/48 N 12 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/48 N 27 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/48 N 8 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/48 N 9 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/49 N 10 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/49 N 11 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/49 N 12 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/49 N 13 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/49 N 9 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/50 N 10 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/50 N 11 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/50 N 7 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/50 N 8 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/test/50 N 9 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/31 N 86 W.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/37N 112W.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/44 N 23 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/44 N 24 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/44 N 25 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/44 N 26 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/44 N 28 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/44 N 44 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/45 N 24 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/45 N 25 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/45 N 26 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/45 N 27 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/45 N 28 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/45 N 29 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/46 N 18 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/46 N 19 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/47 N 10 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/47 N 11 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/47 N 14 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/47 N 15 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/47 N 16 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/47 N 17 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/47 N 18 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/47 N 19 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/47 N 20 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/47 N 21 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/48 N 13 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/48 N 14 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/48 N 15 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/48 N 16 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/48 N 17 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/48 N 18 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/48 N 19 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/48 N 20 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/48 N 21 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/48 N 22 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/49 N 15 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/49 N 18 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/49 N 19 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/49 N 20 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/49 N 21 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/49 N 22 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/50 N 5 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/51 N 3 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/51 N 4 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/52 N 3 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/52 N 4 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/52 N 5 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/52 N 6 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/52N 5E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/53 N 4 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/53 N 5 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/53 N 6 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/53 N 7 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/55 N 10 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/55 N 11 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/55 N 12 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/55 N 13 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/55 N 15 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/55 N 16 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/56 N 10 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/56 N 11 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/56 N 12 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/56 N 8 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/56 N 9 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/57 N 10 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/57 N 11 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/57 N 8 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/57 N 9 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/57N 41E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/58 N 10 E.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Angola.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Antigua &amp; Barbuda.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Australia.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Australia2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Austria.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Bahamas.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Belgium.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Belize.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Benin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Bolivia.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Botswana.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Brazil.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Canada.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Cape Verde.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Chad.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Chile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Costa Rica.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Cuba.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Denmark.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/El Salvador.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/France.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Greece.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/Guniea Bissau.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/ConfluenceProject/train/New Caledonia.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/IAPR TC-12/gold/SpRL_SemEval2013_gold.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/IAPR TC-12/test/SpRL_SemEval2013_test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/IAPR TC-12/train/SpRL_SemEval2013_train.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/corpus/AnnToSpRL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/corpus/CorpusAnalysis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/corpus/SpRLReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/CP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/DIRECTION.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/DISTANCE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/LANDMARK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/MOTIONINDICATOR.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/ObjectFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/PATH.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/RELATION.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/SPATIALINDICATOR.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/SPEX.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/SpRL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/TAGS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/TEXT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/TRAJECTOR.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/URL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/util/FileUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/util/JAXBUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/jaxb/util/StringUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/model/Containable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/model/Markable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/model/WithContent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL/model/WithIdentifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL2012/corpus/SpRL2012Reader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL2012/jaxb/CONTENT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL2012/jaxb/DOC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL2012/jaxb/LANDMARK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL2012/jaxb/ObjectFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL2012/jaxb/RELATION.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL2012/jaxb/SENTENCE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL2012/jaxb/SPATIALINDICATOR.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/SpRL2012/jaxb/TRAJECTOR.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/eval/Evaluate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/chloedata/sprl2013-master/Scripts/src/be/liir/eval/Outcome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/garrett_langfeld/Initial_Data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/garrett_langfeld/Machine Learning Project Initial Data - Sheet1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/nicholasTeal/research.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/peterriser/negativewords.trainer.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/peterriser/positivewords.trainer.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/winona_test.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/winona_train.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Autumn/Project Proposal" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Autumn/projectProposal" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Autumn/test" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Autumn/train" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/EmmaPejko/ProjectSpecification" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Ethan/Specification.rtf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Katie/ProjectSpecificatio" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Neil Barot/ProjectSpecification" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Neil Barot/Research/Kira" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Neil Barot/Research/Step 2 Assignment" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/garrett_langfeld/garrett_langfeld_project_specification.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/garrett_langfeld/project_references.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/nicholasTeal/projectSpecifications.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/Capstone/README.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/Parisa.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__aopalliance_aopalliance_1_0_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__ch_qos_logback_logback_classic_1_1_7_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__ch_qos_logback_logback_core_1_1_7_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_fasterxml_jackson_core_jackson_annotations_2_5_4_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_fasterxml_jackson_core_jackson_core_2_5_4_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_fasterxml_jackson_core_jackson_databind_2_5_4_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_5_4_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_5_4_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_google_code_gson_gson_2_3_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_google_guava_guava_16_0_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_google_inject_extensions_guice_assistedinject_4_0_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_google_inject_guice_4_0_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_googlecode_json_simple_json_simple_1_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_gurobi_gurobi_6_0_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_h2database_h2_1_4_191_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_13_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_slf4j_2_11_2_3_13_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_play_build_link_2_4_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_play_play_2_11_2_4_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_play_play_datacommons_2_11_2_4_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_play_play_exceptions_2_4_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_play_play_functional_2_11_2_4_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_play_play_iteratees_2_11_2_4_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_play_play_json_2_11_2_4_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_play_play_netty_utils_2_4_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_play_twirl_api_2_11_1_1_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__commons_codec_commons_codec_1_10_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__commons_io_commons_io_1_3_2_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__commons_lang_commons_lang_2_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__commons_logging_commons_logging_1_1_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__de_bwaldvogel_liblinear_1_94_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__edu_illinois_cs_cogcomp_LBJava_1_2_20_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__edu_illinois_cs_cogcomp_illinois_core_utilities_3_0_64_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__edu_illinois_cs_cogcomp_jwnl_prime_1_0_4_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__edu_illinois_cs_cogcomp_saul_2_11_0_5_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__edu_illinois_cs_cogcomp_wordnet_1_0_binary_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__edu_princeton_wordnet_dict_3_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__javax_inject_javax_inject_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__javax_transaction_jta_1_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__joda_time_joda_time_2_8_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__junit_junit_4_4_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__log4j_log4j_1_2_16_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__net_sf_ehcache_ehcache_2_8_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__net_sf_squirrel_sql_thirdparty_non_maven_java_cup_0_11a_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__net_sf_trove4j_trove4j_3_0_3_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__nz_ac_waikato_cms_weka_weka_stable_3_6_10_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_commons_commons_lang3_3_4_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_commons_commons_math3_3_6_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_javassist_javassist_3_19_0_GA_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_joda_joda_convert_1_7_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_ojalgo_ojalgo_37_1_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_6_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_stm_scala_stm_2_11_0_7_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_jcl_over_slf4j_1_7_12_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_jul_to_slf4j_1_7_12_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_slf4j_api_1_7_20_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_slf4j_log4j12_1_6_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__xerces_xercesImpl_2_11_0_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__xml_apis_xml_apis_1_4_01_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/usesaul-build.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/logback.appname_IS_UNDEFINED.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/BadgeClassifiers.BadgeClassifier$.lc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/BadgeClassifiers.BadgeClassifier$.lex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$6e8e3fffa361d32fc1df$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$6e8e3fffa361d32fc1df.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/usesaul-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/usesaul-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-usesaul-build-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/ivy-report.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.history" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/usesaul$sbt_2.11/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/usesaul$sbt_2.11/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/usesaul$sources_2.11/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/usesaul$sources_2.11/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/usesaul$sources_javadoc_2.11/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/usesaul$sources_javadoc_2.11/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/usesaul_2.11/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/usesaul_2.11/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sbt_2.11-default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_2.11-default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul$sources_javadoc_2.11-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-usesaul_2.11-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgeClassifiers$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgeClassifiers$BadgeClassifier$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgeClassifiers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgeDataModel$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgeDataModel$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgeDataModel$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgeDataModel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgeReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgesApp$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgesApp$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BadgesApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/badge2$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/badge2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$61d5ef15aac50ce0b51a$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$61d5ef15aac50ce0b51a$$anonfun$$sbtdef$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$61d5ef15aac50ce0b51a$.class" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$61d5ef15aac50ce0b51a$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$3f987a5a8a1fbc0aeaca$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$3f987a5a8a1fbc0aeaca$$anonfun$$sbtdef$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$3f987a5a8a1fbc0aeaca$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$3f987a5a8a1fbc0aeaca$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$601bcf0a77191017f99d$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$601bcf0a77191017f99d$$anonfun$$sbtdef$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$601bcf0a77191017f99d$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$601bcf0a77191017f99d$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$620bb35e06bb1592299a$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$620bb35e06bb1592299a$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$6e8e3fffa361d32fc1df$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$6e8e3fffa361d32fc1df$$anonfun$$sbtdef$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$6e8e3fffa361d32fc1df.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$6e8e3fffa361d32fc1df.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$f279b80ea037efbdc1f9$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$f279b80ea037efbdc1f9$$anonfun$$sbtdef$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$f279b80ea037efbdc1f9$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$f279b80ea037efbdc1f9$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$f84e1af19fdf91da7fa3$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$f84e1af19fdf91da7fa3$$anonfun$$sbtdef$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$f84e1af19fdf91da7fa3$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$f84e1af19fdf91da7fa3$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_8_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_8_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/Saul_ClassProjects.iml" afterPath="$PROJECT_DIR$/.idea/modules/Saul_ClassProjects.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$61d5ef15aac50ce0b51a.cache" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$61d5ef15aac50ce0b51a.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$3eed0755714f484aa24f.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$3eed0755714f484aa24f.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$3f987a5a8a1fbc0aeaca.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$3f987a5a8a1fbc0aeaca.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$601bcf0a77191017f99d.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$601bcf0a77191017f99d.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/config-classes/$620bb35e06bb1592299a.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$620bb35e06bb1592299a.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Readers/BadgeReader.java" afterPath="$PROJECT_DIR$/src/main/java/Readers/BadgeReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/CMPS_3240_6240Fall16/BadgeClassifiers.scala" afterPath="$PROJECT_DIR$/src/main/scala/CMPS_3240_6240Fall16/BadgeClassifiers.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/CMPS_3240_6240Fall16/BagesApp.scala" afterPath="$PROJECT_DIR$/src/main/scala/CMPS_3240_6240Fall16/BagesApp.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/usesaul-usesaul_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/usesaul/usesaul$sources_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/usesaul/usesaul$sources_2.11/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/usesaul/usesaul$sources_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/usesaul/usesaul$sources_2.11/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/usesaul/usesaul_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/usesaul/usesaul_2.11/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/usesaul/usesaul_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/usesaul/usesaul_2.11/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
-    </list>
+    <list default="true" id="2e8ba0a4-f19e-46cd-ab3f-b7c70677788a" name="Default" comment="" />
     <ignored path="useSaul.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -1065,7 +65,7 @@
       <file leaf-file-name="BagesApp.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/CMPS_3240_6240Fall16/BagesApp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="90">
               <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding>
                 <marker date="1475716759000" expanded="true" signature="30:35" ph="/**...*/" />
@@ -1084,21 +84,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugins.sbt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="plugins.sbt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/build.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1157,9 +167,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-17" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="717" />
+    <option name="height" value="722" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1186,8 +197,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1206,9 +218,102 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="useSaul" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Saul_Class_Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="useSaul" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Saul_Class_Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="useSaul" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Saul_Class_Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="useSaul" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Saul_Class_Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Readers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="useSaul" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Saul_Class_Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1232,6 +337,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1430,7 +536,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1475716817366" />
+    <option name="lastUpdateTimestamp" value="1475717014607" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1487,14 +593,15 @@
       <updated>1473743318542</updated>
       <workItem from="1475112772384" duration="354000" />
       <workItem from="1475716287335" duration="633000" />
+      <workItem from="1475716945235" duration="2594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="987000" />
+    <option name="totallyTimeSpent" value="3581000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="717" extended-state="6" />
+    <frame x="-17" y="23" width="1280" height="722" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1502,11 +609,11 @@
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36882716" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36906585" sideWeight="0.509375" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6759941" sideWeight="0.49960846" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36882716" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36906585" sideWeight="0.490625" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1558,6 +665,56 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CMPS_3240_6240Fall16/BagesApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <marker date="1475716759000" expanded="true" signature="30:35" ph="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/badges/badges.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/badges/badges.train">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/CMPS_3240_6240Fall16/BadgeDataModel.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1584,14 +741,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BadgeReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BadgeReader.java" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/CMPS_3240_6240Fall16/BagesApp.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1652,14 +802,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BadgeReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BadgeReader.java" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/CMPS_3240_6240Fall16/BagesApp.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1694,13 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/build.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/immutable/List.scala" />
     <entry file="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/saul_2.11/srcs/saul_2.11-0.5-sources.jar!/edu/illinois/cs/cogcomp/saul/parser/IterableToLBJavaParser.scala" />
     <entry file="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/LBJava/srcs/LBJava-1.2.20-sources.jar!/edu/illinois/cs/cogcomp/lbjava/classify/Classifier.java" />
@@ -1717,20 +853,8 @@
     <entry file="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/saul_2.11/srcs/saul_2.11-0.5-sources.jar!/edu/illinois/cs/cogcomp/saul/datamodel/property/CombinedDiscreteProperty.scala" />
     <entry file="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/LBJava/srcs/LBJava-1.2.20-sources.jar!/edu/illinois/cs/cogcomp/lbjava/learn/Learner.java" />
     <entry file="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/LBJava/srcs/LBJava-1.2.20-sources.jar!/edu/illinois/cs/cogcomp/lbjava/learn/SparseNetworkLearner.java" />
-    <entry file="file://$PROJECT_DIR$/models/BadgeClassifiers.BadgeClassifier$.lc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/BadgeClassifiers.BadgeClassifier$.lex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/models/BadgeClassifiers.BadgeClassifier$.lc" />
+    <entry file="file://$PROJECT_DIR$/models/BadgeClassifiers.BadgeClassifier$.lex" />
     <entry file="file://$PROJECT_DIR$/data/badges/badges.train">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1749,17 +873,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BadgeReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BadgeReader.java" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/CMPS_3240_6240Fall16/BagesApp.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="90">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding>
             <marker date="1475716759000" expanded="true" signature="30:35" ph="/**...*/" />
@@ -1799,7 +916,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1809,8 +926,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
