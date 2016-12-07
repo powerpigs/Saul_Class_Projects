@@ -267,6 +267,10 @@ public class LogisticRegressionModel {
 		System.out.println("Our test results found " + (testresults[1] * 100) + "of Non-Audubon spawns to be squirtles");
 		System.out.println("This is a " + (nondiff*100) + "% difference from what we predicted for non-audubon spawns..");
 
+		double audubonEffect = testresults[0] - testresults[1];
+
+		System.out.println("Our test results found" + (audubonEffect*100) + "% correlation to Squirtles to Audubon Park over all other areas."
+
 
 	}
 
